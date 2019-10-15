@@ -1,0 +1,28 @@
+body{
+    width: 960px;
+}
+
+
+.title_box{
+    background: blueviolet;
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.title{ 
+    font-size: 48px;
+    color: white;
+
+}
+
+subtitle{
+    font-size: 36px;
+    color: white;
+
+}
